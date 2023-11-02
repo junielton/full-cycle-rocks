@@ -33,6 +33,5 @@ Um requisito especial para este projeto é que a imagem do projeto Go deve ter m
 3. Compartilhe o link para o seu repositório Git remoto para que possamos revisar e fornecer feedback sobre o seu projeto.
 
 **Referências:**
-
-https://hub.docker.com/_/scratch/
-https://docs.docker.com/build/building/base-images/
+- https://hub.docker.com/_/scratch/
+- https://docs.docker.com/build/building/base-images/
